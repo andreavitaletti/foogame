@@ -2,7 +2,7 @@
 
 The idea is to use food pairing computed on the basis on the data available on the Web, to develop a new game with food. 
 
-See foogam.it (in Italian) for futher details. 
+See http://foogame.it (in Italian) for futher details. 
 
 ## Relevant links
 
