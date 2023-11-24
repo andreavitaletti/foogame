@@ -15,3 +15,4 @@ See http://foogame.it (in Italian) for futher details.
 * https://www.foodhttps://www.nature.com/articles/srep00196pairing.com
 * https://www.nature.com/articles/srep00196
 * https://www.nature.com/articles/s41598-020-79422-8
+* https://www.flavorfox.app
