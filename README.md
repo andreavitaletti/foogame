@@ -21,4 +21,6 @@ See http://foogame.it (in Italian) for futher details.
 
 * extend the graph to compounds
 * consider different techniques (e.g. GNN)
-* compare the similarity score with others 
+* compare the similarity score with others
+* compare with recommendations provided by bot (e.g. chatGPT)
+* Feedback from users
